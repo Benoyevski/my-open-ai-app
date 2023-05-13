@@ -7,7 +7,7 @@ const Hero = () => {
                 <img src={logo} alt='myai-logo' className='w-28 object-contain' />
                 <button
                     type='button'
-                    onClick={() => window.open("https://github.com/Benoyevski")}
+                    onClick={() => window.open("https://github.com/Benoyevski/my-open-ai-app")}
                     className='black_btn'
                 >
                     GitHub
